@@ -7,13 +7,6 @@ import java.io.PrintWriter;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-/**
- * <ul>
- * <li>功能说明：</li>
- * <li>作者：tal on 2017/2/17 0017 23:15 </li>
- * <li>邮箱：houxiangxiang@cibfintech.com</li>
- * </ul>
- */
 
 class HttpUtil {
     private static final int TIMEOUT_IN_MILLIONS = 5000;
